@@ -3,7 +3,7 @@
 For details, please refer to the paper: [A Simple and Efficient Jailbreak Method Exploiting LLMs' Helpfulness
 ](https://arxiv.org/abs/2509.14297)
 
-Dataset & Code in [gracehuggingface/HILL_Learning-style_Jailbreak](https://huggingface.co/datasets/gracehuggingface/HILL_Learning-style_Jailbreak) 
+Dataset & Code in [Hugging Face Datasets](https://huggingface.co/datasets/gracehuggingface/HILL_Learning-style_Jailbreak) 
 with the Dataset License Agreement
 
 [Highlights]
